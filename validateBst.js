@@ -8,6 +8,8 @@
 
 // output: true
 
+
+// O(n) time | O(d) space
 class BST {
   constructor(value) {
     this.value = value;
