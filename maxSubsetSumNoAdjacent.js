@@ -17,4 +17,4 @@ function maxSubsetSumNoAdjacent(array) {
   return first;
 }
 
-console.log(maxSubsetSumNoAdjacent([75, 105, 120, 75, 90, 135]));
+console.log(maxSubsetSumNoAdjacent([75, 105, 120, 75, 90, 135])); //330
